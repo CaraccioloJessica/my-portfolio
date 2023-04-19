@@ -7,8 +7,8 @@ export default {
 <template>
   <footer class="pt-5">
     <div class="container-fluid p-2 d-flex align-items-center gap-3 justify-content-between">
-      <p>&copy; 2023 Caracciolo Jessica &nbsp; | &nbsp; &#9998; Illustrations by me</p>
-      <div>
+      <p class="col-9">&copy; 2023 Caracciolo Jessica &nbsp; | &nbsp; &#9998; Illustrations by me</p>
+      <div class="col-2 d-flex justify-content-end">
         <a href="https://www.linkedin.com/in/jessica-caracciolo/" title="Linkedin" class="linkedin"><i
             class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/CaraccioloJessica" title="Github" class="github"><i
