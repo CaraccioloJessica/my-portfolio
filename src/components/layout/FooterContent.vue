@@ -23,7 +23,7 @@ export default {
 
 .container-fluid {
   border-top: 1px solid gray;
-  font-size: 2rem;
+  font-size: 1.7rem;
 
   a {
     color: #3F3B3B !important;

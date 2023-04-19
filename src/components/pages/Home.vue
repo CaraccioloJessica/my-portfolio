@@ -143,7 +143,7 @@ export default {
 }
 
 .logo img {
-  width: 100px;
+  width: 102px;
   cursor: pointer;
   border-radius: 100%;
 
