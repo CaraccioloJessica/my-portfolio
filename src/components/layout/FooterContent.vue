@@ -7,7 +7,7 @@ export default {
 <template>
   <footer class="pt-5">
     <div class="container-fluid p-2 d-flex align-items-center gap-3 justify-content-between">
-      <p class="col-9">&copy; 2023 Caracciolo Jessica &nbsp; | &nbsp; &#9998; Illustrations by me</p>
+      <p class="col-6 col-sm-8">&copy; 2023 Caracciolo Jessica &nbsp; | &nbsp; &#9998; Illustrations by me</p>
       <div class="col-2 d-flex justify-content-end">
         <a href="https://www.linkedin.com/in/jessica-caracciolo/" title="Linkedin" class="linkedin"><i
             class="fa-brands fa-linkedin"></i></a>
@@ -23,7 +23,7 @@ export default {
 
 .container-fluid {
   border-top: 1px solid gray;
-  font-size: 1.7rem;
+  font-size: 2rem;
 
   a {
     color: #3F3B3B !important;
@@ -39,7 +39,7 @@ export default {
   }
 
   p {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
 }
 </style>

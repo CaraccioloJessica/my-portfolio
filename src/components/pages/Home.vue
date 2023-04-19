@@ -51,7 +51,7 @@ export default {
             </div>
 
             <div class="col-12 col-md-6">
-              <div class="d-flex flex-wrap align-items-center logo mx-4">
+              <div class="logo d-flex flex-wrap justify-content-center">
                 <img src="/img/html.png" alt="html-logo" title="html">
                 <img src="/img/css.png" alt="css-logo" title="css">
                 <img src="/img/js.png" alt="js-logo" title="javascript">
@@ -143,7 +143,7 @@ export default {
 }
 
 .logo img {
-  width: 102px;
+  width: 110px;
   cursor: pointer;
   border-radius: 100%;
 
