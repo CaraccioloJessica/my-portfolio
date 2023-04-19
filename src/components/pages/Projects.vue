@@ -48,11 +48,11 @@ export default {
   <ContainerAll>
     <main>
       <div class="projects">
-        <h1>I miei progetti</h1>
+        <h1 class="px-4">Progetti</h1>
       </div>
 
       <!-- CARD PROGETTI -->
-      <div class="container-fluid d-flex flex-wrap gap-4 justify-content-center">
+      <div class="container-fluid d-flex flex-wrap gap-4 justify-content-center px-4">
         <router-link v-for="project in projects" :key="project.id" :to="'/projects/' + project.id" class="card p-1"
           style="width: 16.3rem;">
           <img :src="project.img" class="card-img-top" :alt="project.title">

@@ -59,7 +59,7 @@ export default {
     <main>
       <h1 class="mb-5 text-center">{{ project.title }}</h1>
 
-      <div class="container-fluid d-flex gap-5 flex-column-reverse flex-lg-row">
+      <div class="container-fluid d-flex gap-5 flex-column-reverse flex-lg-row px-4">
         <div class="col-12 col-lg-8">
           <img :src="project.img" :alt="project.title" class="rounded" />
         </div>

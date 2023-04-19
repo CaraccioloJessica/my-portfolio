@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <footer class="pt-5">
+  <footer class="pt-5 px-4">
     <div class="container-fluid p-2 d-flex align-items-center gap-3 justify-content-between">
       <p class="col-6 col-sm-8">&copy; 2023 Caracciolo Jessica &nbsp; | &nbsp; &#9998; Illustrations by me</p>
       <div class="col-2 d-flex justify-content-end">

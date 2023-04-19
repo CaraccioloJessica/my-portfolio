@@ -5,7 +5,7 @@ export default {
 
 <template>
   <header>
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg px-4">
       <div class="container-fluid">
         <!-- LOGO -->
         <div class="navbar-brand">

@@ -13,7 +13,7 @@ export default {
   <ContainerAll>
     <main>
       <section>
-        <div class="jumbo d-md-flex px-3">
+        <div class="jumbo d-md-flex px-4">
           <div class="col-12 col-md-7">
             <h1 class="mb-2">
               Benvenuti,
@@ -40,7 +40,7 @@ export default {
 
       <!-- SKILLS SECTION -->
       <section>
-        <div>
+        <div class="px-4">
           <h2 class="mb-5 skills d-flex justify-content-center">
             Skills
           </h2>

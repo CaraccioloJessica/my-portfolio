@@ -11,10 +11,10 @@ export default {
 <template>
   <ContainerAll>
     <div id="contact">
-      <h1>Contatti</h1>
+      <h1 class="px-4">Contatti</h1>
     </div>
 
-    <div class="container-fluid d-md-flex">
+    <div class="container-fluid d-md-flex px-4">
       <div class="col-12 col-md-6 mb-5 contatti">
         <div class="d-flex gap-3 align-items-center mb-3 gmail">
           <i class="fa-regular fa-envelope"></i>

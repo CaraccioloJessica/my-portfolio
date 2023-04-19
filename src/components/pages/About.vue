@@ -12,10 +12,10 @@ export default {
   <ContainerAll>
     <main>
       <div id="about">
-        <h1>Chi sono</h1>
+        <h1 class="px-4">Chi sono</h1>
       </div>
 
-      <div class="d-flex flex-column flex-column-reverse flex-md-row gap-2">
+      <div class="d-flex flex-column flex-column-reverse flex-md-row gap-2 px-4">
         <div class="container-fluid col-12 col-md-6 col-lg-7 bg_text">
           <p>
             Sono una Full Stack Web Developer appassionata di tecnologia e design, sempre alla ricerca di soluzioni
