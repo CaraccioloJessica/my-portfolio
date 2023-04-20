@@ -45,25 +45,72 @@ export default {
             Skills
           </h2>
 
-          <div class="d-flex flex-column-reverse flex-md-row gap-5">
-            <div class="col-12 col-md-6 setup">
+          <div class="d-flex flex-column-reverse flex-lg-row gap-5">
+            <div class="col-12 col-lg-6 setup">
               <img src="/img/setup.png" alt="setup">
             </div>
 
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-lg-6">
               <div class="logo d-flex flex-wrap justify-content-center">
-                <img src="/img/html.png" alt="html-logo" title="html">
-                <img src="/img/css.png" alt="css-logo" title="css">
-                <img src="/img/js.png" alt="js-logo" title="javascript">
-                <img src="/img/sql.png" alt="mysql-logo" title="mysql">
-                <img src="/img/php.png" alt="php-logo" title="php">
-                <img src="/img/laravel.png" alt="laravel-logo" title="laravel">
-                <img src="/img/vue.png" alt="vue-logo" title="vuejs">
-                <img src="/img/bs.png" alt="bs-logo" title="bootstrap">
-                <img src="/img/sass.png" alt="sass-logo" title="sass">
-                <img src="/img/tailwind.png" alt="tailwind-logo" title="tailwind css">
-                <img src="/img/ps.png" alt="ps-logo" title="photoshop">
-                <img src="/img/ai.png" alt="ai-logo" title="illustrator">
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/html.png" alt="html-logo">
+                  <span>HTML</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/css.png" alt="css-logo">
+                  <span>CSS</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/js.png" alt="js-logo">
+                  <span>Javascript</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/sql.png" alt="mysql-logo">
+                  <span>MySql</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/php.png" alt="php-logo">
+                  <span>PHP</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/laravel.png" alt="laravel-logo">
+                  <span>Laravel</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/vue.png" alt="vue-logo">
+                  <span>Vuejs</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/bs.png" alt="bs-logo">
+                  <span>Bootstrap</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/sass.png" alt="sass-logo">
+                  <span>Sass</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/tailwind.png" alt="tailwind-logo">
+                  <span>Tailwind CSS</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/ps.png" alt="ps-logo">
+                  <span>Photoshop</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/ai.png" alt="ai-logo">
+                  <span>llustrator</span>
+                </div>
               </div>
             </div>
           </div>
@@ -150,5 +197,13 @@ export default {
   &:hover {
     filter: drop-shadow(3px 6px 5px #00000047);
   }
+}
+
+span {
+  color: #4d4848;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 600;
 }
 </style>
