@@ -66,7 +66,7 @@ export default {
 
         <div class="col-12 col-lg-3 justify-self-center">
           <p class="mb-5 descr">{{ project.description }}</p>
-          <p class="fw-bold mb-3">Programmi utilizzati:</p>
+          <p class="fw-bold mb-3">Realizzato con:</p>
           <p class="program">{{ project.programs }}</p>
         </div>
       </div>
