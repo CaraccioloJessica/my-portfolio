@@ -25,7 +25,7 @@ export default {
               e sono una full stack web developer con la passione per l'illustrazione.
             </h2>
 
-            <a class="btn" href="/JESSICA CARACCIOLO - cv.pdf" role="button" download> Download
+            <a class="btn" href="/JESSICA CARACCIOLO_CV.pdf" role="button" download> Download
               CV</a>
           </div>
 
