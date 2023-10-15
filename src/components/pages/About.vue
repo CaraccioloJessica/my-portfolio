@@ -74,7 +74,7 @@ export default {
 }
 
 .bg_text {
-  background-color: #0061412a;
+  background-color: #3ab38a2a;
   box-shadow: 3px 6px 8px #00000047;
   border-radius: 20px;
   padding: 40px 50px;
