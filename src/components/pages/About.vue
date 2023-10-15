@@ -77,7 +77,7 @@ export default {
 
   p {
     color: #ececec;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 }
 
