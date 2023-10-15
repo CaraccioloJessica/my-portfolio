@@ -18,11 +18,15 @@ export default {
       <div class="d-flex flex-column flex-column-reverse flex-md-row gap-2 px-4">
         <div class="container-fluid col-12 col-md-6 col-lg-7 bg_text">
           <p>
-            Attualmente, nel mio lavoro, mi occupo della progettazione di siti web aziendali con Figma, della loro
+            Attualmente, nel mio lavoro, mi occupo della progettazione di siti web aziendali con <strong>Figma</strong>,
+            della loro
             creazione
-            su WordPress utilizzando il page builder Elementor, e della loro gestione e manutenzione. Inoltre ho avuto
-            l'opportunità di approfondire la realizzazione di progetti grafici con Photoshop, tra cui Mockup, Banner,
-            Moduli PDF, Insta Stories, Post Linkedin e la gestione delle Newsletter editoriali periodiche tramite MailUp.
+            su <strong>WordPress</strong> utilizzando il page builder <strong>Elementor</strong>, e della loro gestione e
+            manutenzione. Inoltre ho avuto
+            l'opportunità di approfondire la realizzazione di progetti grafici con <strong>Photoshop</strong>, tra cui
+            Mockup, Banner,
+            Moduli PDF, Insta Stories, Post Linkedin e la gestione delle Newsletter editoriali periodiche tramite
+            <strong>MailUp</strong>.
             <br>
             Mi occupo di Graphic e Web Design, sono un' appassionata di tecnologia, arte e fotografia, sempre alla ricerca
             di
@@ -73,11 +77,11 @@ export default {
   background-color: #0061412a;
   box-shadow: 3px 6px 8px #00000047;
   border-radius: 20px;
-  padding: 30px 20px;
+  padding: 40px 50px;
 
   p {
-    color: #ececec;
-    font-size: 1.2rem;
+    color: #235745;
+    font-size: 1.1rem;
   }
 }
 

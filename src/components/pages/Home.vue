@@ -22,7 +22,7 @@ export default {
             <h2 class="mb-5">
               Mi chiamo Jessica
               <br>
-              e sono una full stack web developer con la passione per l'illustrazione.
+              e sono una Graphic e Web Designer con la passione per l'illustrazione, fotografia e il mondo nerd.
             </h2>
 
             <a class="btn" href="/JESSICA CARACCIOLO_CV.pdf" role="button" download> Download
@@ -63,6 +63,36 @@ export default {
                 </div>
 
                 <div class="d-flex flex-column text-center">
+                  <img src="/img/ps.png" alt="ps-logo">
+                  <span>Photoshop</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/ai.png" alt="ai-logo">
+                  <span>llustrator</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/wordpress.png" alt="wordpress-logo">
+                  <span>Wordpress</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/elementor.png" alt="elementor-logo">
+                  <span>Elementor</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/mailup.png" alt="mailup-logo">
+                  <span>MailUp</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
+                  <img src="/img/figma.png" alt="figma-logo">
+                  <span>Figma</span>
+                </div>
+
+                <div class="d-flex flex-column text-center">
                   <img src="/img/js.png" alt="js-logo">
                   <span>Javascript</span>
                 </div>
@@ -77,10 +107,6 @@ export default {
                   <span>PHP</span>
                 </div>
 
-                <div class="d-flex flex-column text-center">
-                  <img src="/img/laravel.png" alt="laravel-logo">
-                  <span>Laravel</span>
-                </div>
 
                 <div class="d-flex flex-column text-center">
                   <img src="/img/vue.png" alt="vue-logo">
@@ -102,15 +128,6 @@ export default {
                   <span>Tailwind CSS</span>
                 </div>
 
-                <div class="d-flex flex-column text-center">
-                  <img src="/img/ps.png" alt="ps-logo">
-                  <span>Photoshop</span>
-                </div>
-
-                <div class="d-flex flex-column text-center">
-                  <img src="/img/ai.png" alt="ai-logo">
-                  <span>llustrator</span>
-                </div>
               </div>
             </div>
           </div>
