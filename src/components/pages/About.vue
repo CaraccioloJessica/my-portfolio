@@ -18,12 +18,20 @@ export default {
       <div class="d-flex flex-column flex-column-reverse flex-md-row gap-2 px-4">
         <div class="container-fluid col-12 col-md-6 col-lg-7 bg_text">
           <p>
-            Sono una Full Stack Web Developer appassionata di tecnologia e design, sempre alla ricerca di soluzioni
-            innovative
-            e funzionali.
+            Attualmente, nel mio lavoro, mi occupo della progettazione di siti web aziendali con Figma, della loro
+            creazione
+            su WordPress utilizzando il page builder Elementor, e della loro gestione e manutenzione. Inoltre ho avuto
+            l'opportunità di approfondire la realizzazione di progetti grafici con Photoshop, tra cui Mockup, Banner,
+            Moduli PDF, Insta Stories, Post Linkedin e la gestione delle Newsletter editoriali periodiche tramite MailUp.
+            <br>
+            Mi occupo di Graphic e Web Design, sono un' appassionata di tecnologia, arte e fotografia, sempre alla ricerca
+            di
+            soluzioni
+            innovative e funzionali per arricchire le mie conoscenze.
             <br>
             <br>
-            Grazie alla mia esperienza con Boolean, ho sviluppato una conoscenza di linguaggi di programmazione
+            Grazie a Boolean, ho intrapreso un percorso come Full Stack Web Developer ed ho sviluppato una conoscenza di
+            linguaggi di programmazione
             come HTML, CSS, JavaScript e PHP. Inoltre, il mio percorso artistico mi ha permesso di acquisire competenze
             nell'utilizzo di strumenti di grafica come Photoshop e nella realizzazione di illustrazioni con tavoletta
             grafica.
